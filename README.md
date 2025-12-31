@@ -124,7 +124,7 @@ Clarity > visual design.
 Submit a folder or repository containing:
 -  your explanation file
 - (Optional) flow diagram file
-
+format: Test - System Analyst = Yourname
 Send to:
 
 📩 **antariks.recruitment@gmail.com**  
